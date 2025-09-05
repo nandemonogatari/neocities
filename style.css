@@ -7,3 +7,13 @@ body {
   color: black;
   font-family: Verdana;
 }
+
+.indexmaincontainer {
+    padding: 5px;
+    color: blueviolet;
+    width: 70%;
+    margin: 40px;
+    background-color: white;
+    border-width: 2px;
+    background-image: url('css/circuitsdimblue.jpg');
+}

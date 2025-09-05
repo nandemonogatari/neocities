@@ -1,0 +1,34 @@
+body {
+    font-family: 'DotGothic16', sans-serif;
+    background-color: white;
+    background-size:1200px;
+}
+
+.indexmaincontainer {
+    padding: 5px;
+    color: blueviolet;
+    width: 500px;
+    margin: 40px;
+    background-color: white;
+    border-width: 2px;
+    border-style: solid;
+    background-image: url('css/circuitsdimblue.jpg');
+}
+
+
+.indexlogo {
+    font-size: 25px;
+    color: blueviolet;
+}
+
+.indexmaintext {
+    font-size: 15px;
+}
+
+.indexsplashimage{
+    font-size: 12px;
+}
+
+.indexoldsitebutton{
+    font-size: 15px;
+}
